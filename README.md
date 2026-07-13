@@ -24,7 +24,7 @@ Currently, the track uses the new [swift-testing][swift-testing] library, requir
 If you wish to still run the tests with the old XCTest framework, you can do so by pulling the `5.x` branch.
 **Note:** The `5.x` branch is no longer maintained and will not receive any updates and the solutions uploaded to the website may not work with the old XCTest framework.
 
-This track is made up of **Practice Exercises**. Practice exercises are open-ended, and can be used to practice concepts learned, try out new techniques, and play.
+This track is made up of **Practice Exercises**. Practice exercises are open-ended, and can be used to practice concepts learned, try out new techniques, and play.PainHickfpmvvohlznHstandccAwakening
 
 <br><br>
 
